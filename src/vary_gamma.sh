@@ -3,6 +3,6 @@ declare -A Dim=(["Cora"]="128" ["CiteSeer"]="32" ["MovieLens"]="-1" ["LastFM"]="
 
 for g in {0..10}
 do
-	python3.8 proposed.py --data $1  --alpha ${Alpha[$1]} --gamma $g --d ${Dim[$1]}  >> ../log/vary_gamma_$1.log
+	python3 proposed.py --data $1  --alpha ${Alpha[$1]} --gamma $g --d ${Dim[$1]}  >> ../log/vary_gamma_$1.log
 	python3 eval.py --data $1 --algo TPC  >> ../log/vary_gamma_$1.log
 done
