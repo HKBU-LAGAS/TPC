@@ -12,8 +12,8 @@
 
 | data name  | URL  |
 |---|---|
-| Cora  | [preprocessed]() [raw](https://github.com/chaoyanghe/bipartite-graph-learning)  |
-| CiteSeer  | [preprocessed]() [raw](https://github.com/chaoyanghe/bipartite-graph-learning)  |
+| Cora  | [preprocessed](https://github.com/AnryYang/TPC/tree/main/datasets) [raw](https://github.com/chaoyanghe/bipartite-graph-learning)  |
+| CiteSeer  | [preprocessed](https://github.com/AnryYang/TPC/tree/main/datasets) [raw](https://github.com/chaoyanghe/bipartite-graph-learning)  |
 | MovieLens  | [preprocessed]() [raw](https://grouplens.org/datasets/movielens/) |
 | LastFM  | [preprocessed]() [raw](https://snap.stanford.edu/data/feather-lastfm-social.html) | 
 | Google  | [preprocessed]() [raw](https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_restaurants) | 
