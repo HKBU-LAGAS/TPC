@@ -4,17 +4,6 @@ Functions named as *_score return a scalar value to maximize: the higher the
 better.
 """
 
-# Authors: Olivier Grisel <olivier.grisel@ensta.org>
-#          Wei LI <kuantkid@gmail.com>
-#          Diego Molla <dmolla-aliod@gmail.com>
-#          Arnaud Fouchet <foucheta@gmail.com>
-#          Thierry Guillemot <thierry.guillemot.work@gmail.com>
-#          Gregory Stupp <stuppie@gmail.com>
-#          Joel Nothman <joel.nothman@gmail.com>
-#          Arya McCarthy <arya@jhu.edu>
-#          Uwe F Mayer <uwe_f_mayer@yahoo.com>
-# License: BSD 3 clause
-
 
 import warnings
 from math import log
