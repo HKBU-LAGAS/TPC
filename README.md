@@ -10,14 +10,14 @@
   
 ## Datasets
 
-| data name  | Raw  | Preprocessed  |
-|---|---|---|
-| Cora  |   |   |
-| CiteSeer  |   |   |
-| MovieLens  |   |   |
-| LastFM  |   |   |
-| Google  |   |   |
-| Amazon  |   |   |
+| data name  | URL  |
+|---|---|
+| Cora  | [preprocessed]() [raw](https://github.com/chaoyanghe/bipartite-graph-learning)  |
+| CiteSeer  | [preprocessed]() [raw](https://github.com/chaoyanghe/bipartite-graph-learning)  |
+| MovieLens  | [preprocessed]() [raw](https://grouplens.org/datasets/movielens/) |
+| LastFM  | [preprocessed]() [raw](https://snap.stanford.edu/data/feather-lastfm-social.html) | 
+| Google  | [preprocessed]() [raw](https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_restaurants) | 
+| Amazon  | [preprocessed]() [raw](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html) | 
 
 ## Usage
 ```shell
