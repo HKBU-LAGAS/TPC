@@ -10,13 +10,14 @@
   
 ## Datasets
 
-|   |   |   |
+| data name  | Raw  | Preprocessed  |
 |---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| Cora  |   |   |
+| CiteSeer  |   |   |
+| MovieLens  |   |   |
+| LastFM  |   |   |
+| Google  |   |   |
+| Amazon  |   |   |
 
 ## Usage
 ```shell
