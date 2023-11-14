@@ -14,10 +14,10 @@
 |---|---|
 | Cora  | [preprocessed](https://github.com/AnryYang/TPC/tree/main/datasets) [raw](https://github.com/chaoyanghe/bipartite-graph-learning)  |
 | CiteSeer  | [preprocessed](https://github.com/AnryYang/TPC/tree/main/datasets) [raw](https://github.com/chaoyanghe/bipartite-graph-learning)  |
-| MovieLens  | [preprocessed]() [raw](https://grouplens.org/datasets/movielens/) |
-| LastFM  | [preprocessed]() [raw](https://snap.stanford.edu/data/feather-lastfm-social.html) | 
-| Google  | [preprocessed]() [raw](https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_restaurants) | 
-| Amazon  | [preprocessed]() [raw](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html) | 
+| MovieLens  | [preprocessed](https://drive.google.com/file/d/1pSxO5QKV3uCFNjQuS5XepeCJyQ6kDn6t/view?usp=sharing) [raw](https://grouplens.org/datasets/movielens/) |
+| LastFM  | [preprocessed](https://drive.google.com/file/d/1pSxO5QKV3uCFNjQuS5XepeCJyQ6kDn6t/view?usp=sharing) [raw](https://snap.stanford.edu/data/feather-lastfm-social.html) | 
+| Google  | [preprocessed](https://drive.google.com/file/d/1pSxO5QKV3uCFNjQuS5XepeCJyQ6kDn6t/view?usp=sharing) [raw](https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_restaurants) | 
+| Amazon  | [preprocessed](https://drive.google.com/file/d/1pSxO5QKV3uCFNjQuS5XepeCJyQ6kDn6t/view?usp=sharing) [raw](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html) | 
 
 ## Usage
 ```shell
