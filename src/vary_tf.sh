@@ -4,6 +4,6 @@ declare -A Dim=(["Cora"]="128" ["CiteSeer"]="32" ["MovieLens"]="-1" ["LastFM"]="
 
 for t in {0,5,10,20,40}
 do
-	python3.8 proposed.py --data $1 --alpha ${Alpha[$1]} --gamma ${Gamma[$1]} --d ${Dim[$1]}  --tf $t  >> ../log/vary_tf_$1.log
+	python3 proposed.py --data $1 --alpha ${Alpha[$1]} --gamma ${Gamma[$1]} --d ${Dim[$1]}  --tf $t  >> ../log/vary_tf_$1.log
 	python3 eval.py --data $1 --algo TPC  >> ../log/vary_tf_$1.log
 done
