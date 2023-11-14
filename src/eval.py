@@ -118,7 +118,7 @@ def eval(args):
     
     # print(len(set(true_labels)), len(set(pred_labels)))
     print("%s Method's ACC: %.3f"%(args.algo, ACC))
-    print("%s Method's F1-Macro: %.3f"%(args.algo, f1_macro))
+    #print("%s Method's F1-Macro: %.3f"%(args.algo, f1_macro))
     #print("%s Method's F1-Micro: %.3f"%(args.algo, f1_micro))
     #print("%s Method's AUC: %.3f"%(args.algo, auc))
 
@@ -146,7 +146,7 @@ def eval(args):
         print("%s Method's approx NMI: %.3f"%(args.algo, NMI*1.0/num_sample))
         print("%s Method's approx ARI: %.3f"%(args.algo, ARI*1.0/num_sample))
 
-    print("OVERALL: %.3f;%.3f;%.3f;%.3f"%(ACC, f1_macro, NMI, ARI))
+    print("OVERALL: %.3f;%.3f;%.3f"%(ACC, NMI, ARI))
 
 def main():
     parser = ArgumentParser("Our",
