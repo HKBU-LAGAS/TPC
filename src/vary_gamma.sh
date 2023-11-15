@@ -1,5 +1,5 @@
-declare -A Alpha=(["Cora"]="0.9" ["CiteSeer"]="0.6" ["MovieLens"]="0.6" ["LastFM"]="0.5" ["Google"]="0.9" ["Amazon"]="0.5")
-declare -A Dim=(["Cora"]="128" ["CiteSeer"]="32" ["MovieLens"]="-1" ["LastFM"]="128" ["Google"]="32" ["Amazon"]="64")
+declare -A Alpha=(["Cora"]="0.9" ["CiteSeer"]="0.6" ["MovieLens"]="0.6" ["Google"]="0.9" ["Amazon"]="0.5")
+declare -A Dim=(["Cora"]="128" ["CiteSeer"]="32" ["MovieLens"]="-1" ["Google"]="32" ["Amazon"]="64")
 
 for g in {0..10}
 do
