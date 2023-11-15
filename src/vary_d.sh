@@ -1,5 +1,5 @@
-declare -A Alpha=(["Cora"]="0.9" ["CiteSeer"]="0.6" ["MovieLens"]="0.6" ["LastFM"]="0.5" ["Google"]="0.9" ["Amazon"]="0.5")
-declare -A Gamma=(["Cora"]="10" ["CiteSeer"]="6" ["MovieLens"]="6" ["LastFM"]="7" ["Google"]="10" ["Amazon"]="0")
+declare -A Alpha=(["Cora"]="0.9" ["CiteSeer"]="0.6" ["MovieLens"]="0.6" ["Google"]="0.9" ["Amazon"]="0.5")
+declare -A Gamma=(["Cora"]="10" ["CiteSeer"]="6" ["MovieLens"]="6" ["Google"]="10" ["Amazon"]="0")
 
 for d in {16,32,54,128,256}
 do
