@@ -1,5 +1,5 @@
-declare -A Gamma=(["Cora"]="10" ["CiteSeer"]="6" ["MovieLens"]="6" ["LastFM"]="7" ["Google"]="10" ["Amazon"]="0")
-declare -A Dim=(["Cora"]="128" ["CiteSeer"]="32" ["MovieLens"]="-1" ["LastFM"]="128" ["Google"]="32" ["Amazon"]="64")
+declare -A Gamma=(["Cora"]="10" ["CiteSeer"]="6" ["MovieLens"]="6" ["Google"]="10" ["Amazon"]="0")
+declare -A Dim=(["Cora"]="128" ["CiteSeer"]="32" ["MovieLens"]="-1" ["Google"]="32" ["Amazon"]="64")
 
 for a in {0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9}
 do
