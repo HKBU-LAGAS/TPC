@@ -2,7 +2,7 @@
 
 ## Requirements
 - Linux
-- Python 3.6 or above
+- Python 3.8.16
 - numpy==1.23.3
 - scipy==1.9.2
 - sklearn==1.1.2
