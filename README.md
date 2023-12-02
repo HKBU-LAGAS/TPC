@@ -12,8 +12,8 @@
 
 | data name  | URL  |
 |---|---|
-| Cora  | [preprocessed](https://github.com/AnryYang/TPC/tree/main/datasets) [raw](https://github.com/chaoyanghe/bipartite-graph-learning)  |
-| CiteSeer  | [preprocessed](https://github.com/AnryYang/TPC/tree/main/datasets) [raw](https://github.com/chaoyanghe/bipartite-graph-learning)  |
+| Cora  | [preprocessed]() [raw](https://github.com/chaoyanghe/bipartite-graph-learning)  |
+| CiteSeer  | [preprocessed]() [raw](https://github.com/chaoyanghe/bipartite-graph-learning)  |
 | MovieLens  | [preprocessed](https://drive.google.com/file/d/1pSxO5QKV3uCFNjQuS5XepeCJyQ6kDn6t/view?usp=sharing) [raw](https://grouplens.org/datasets/movielens/) |
 | Google  | [preprocessed](https://drive.google.com/file/d/1pSxO5QKV3uCFNjQuS5XepeCJyQ6kDn6t/view?usp=sharing) [raw](https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_restaurants) | 
 | Amazon  | [preprocessed](https://drive.google.com/file/d/1pSxO5QKV3uCFNjQuS5XepeCJyQ6kDn6t/view?usp=sharing) [raw](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html) | 
